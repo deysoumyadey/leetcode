@@ -1,3 +1,5 @@
+package patternSlidingWindow;
+
 import java.util.HashMap;
 
 public class FruitsIntoBaskets {

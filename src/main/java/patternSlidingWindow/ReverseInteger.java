@@ -1,3 +1,5 @@
+package patternSlidingWindow;
+
 public class ReverseInteger {
     public static int reverse(int x){
         int result=0;
