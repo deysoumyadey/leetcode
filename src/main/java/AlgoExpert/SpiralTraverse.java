@@ -2,7 +2,11 @@ package AlgoExpert;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * 
+ * @author soumya
+ *
+ */
 public class SpiralTraverse {
 	public static List<Integer> spiralTraverse(int[][] a) {
 		int n = a.length, m = a[0].length;
