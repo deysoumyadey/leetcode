@@ -1,5 +1,9 @@
 package AlgoExpert;
-
+/**
+ * 
+ * @author soumya
+ *
+ */
 public class IsMonotonic {
 	public static boolean isMonotonic(int[] array) {
 		if(array.length<3){
