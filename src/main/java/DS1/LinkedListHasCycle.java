@@ -26,7 +26,7 @@ public class LinkedListHasCycle {
 		return false;
 	}
 	/**
-	 * Floyd’s Cycle-Finding Algorithm
+	 * Floyd's Cycle-Finding Algorithm
 	 */
 	public boolean hasCycle2(ListNode head) {
 		ListNode slow_p = head, fast_p = head;
