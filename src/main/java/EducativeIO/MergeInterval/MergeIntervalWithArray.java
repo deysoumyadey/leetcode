@@ -1,4 +1,4 @@
-package MergeInterval;
+package EducativeIO.MergeInterval;
 
 import org.junit.Test;
 
